@@ -1,6 +1,6 @@
 # UniSAL
 
-train UniSAL in bash:
+train UniSAL:
 ```
 python train_unisal.py
 ```
