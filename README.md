@@ -1,5 +1,11 @@
 # UniSAL
 
+### Prepare the datasets
+
+1. CRC5000
+2. Chaoyang
+3. CRC100K
+
 Training UniSAL with the following command:
 
 ```
