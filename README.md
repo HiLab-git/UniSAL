@@ -1,8 +1,7 @@
 # UniSAL
 
-Under review, all codes will be updated upon acceptance.
+Training UniSAL with the following command:
 
-train UniSAL:
 ```
 python train_unisal.py
 ```
