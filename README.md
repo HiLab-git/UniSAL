@@ -2,6 +2,9 @@
 
 ![Oerall framework](https://github.com/HiLab-git/UniSAL/blob/main/image.png)
 
+### What is UniSAL
+UniSAL is a unified semi-supervised active learning framework for efficient labeling.
+
 ### Prepare the datasets
 
 1. [CRC5000](https://zenodo.org/record/53169$\#$.W6HwwP4zbOQ)
